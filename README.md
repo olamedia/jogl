@@ -4,6 +4,8 @@ JOGL provides full access to the APIs in the OpenGL 1.3 - 3.0, 3.1 - 3.3, ≥ 4.
 
 JOGL integrates with the AWT, Swing and SWT widget sets, as well with custom windowing toolkits using the NativeWindow API. JOGL also provides its own native windowing toolkit, NEWT.
 
+Look at README.txt for more info
+
 ### Contact Us
 
 * Project page http://jogamp.org/jogl/www/
