@@ -1,3 +1,5 @@
+![](http://jogamp.org/images/jogamp_symbols/website_final_blue_jogl_346x70pel.png)
+
 ### JOGL - Java™ Binding for the OpenGL® API
 
 JOGL provides full access to the APIs in the OpenGL 1.3 - 3.0, 3.1 - 3.3, ≥ 4.0, ES 1.x and ES 2.x specification as well as nearly all vendor extensions.
